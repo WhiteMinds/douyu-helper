@@ -7,7 +7,7 @@
 2. 安装 [yarn](https://yarnpkg.com/lang/en/docs/install/).
 3. 克隆本仓库
 4. 执行 `yarn`.
-5. 执行 `npm run start`
+5. 执行 `yarn start`
 6. 在Chrome下加载扩展:
     1. 访问 `chrome://extensions/`
     2. 开启 `开发者模式`

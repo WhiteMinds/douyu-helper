@@ -1,11 +1,12 @@
 {
-  "name": "Chrome Extension Webpack",
+  "name": "斗鱼助手",
   "options_page": "options.html",
   "background": {
-    "page": "background.html"
+    "scripts": [
+      "background.bundle.js"
+    ]
   },
   "browser_action": {
-    "default_popup": "popup.html",
     "default_icon": "icon-34.png"
   },
   "icons": {
